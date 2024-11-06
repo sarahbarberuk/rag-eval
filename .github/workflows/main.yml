@@ -31,4 +31,4 @@ jobs:
       - name: RAG Evaluation
         run: |
           okareo -v
-          okareo run -d -f retrieval-eval
+          okareo run -d -f retrieval-evaluation
